@@ -1,0 +1,42 @@
+*{
+    margin: 20px;
+    font-size: 40px;
+}
+
+header p{
+    font-size: 20px;
+}
+
+.drummusic{
+    background: lightblue;
+    width: 100%;
+    display: flex;
+}
+
+.drummusic > div{
+    height: 100px;
+    width: 100px;
+    flex: 1;
+}
+
+.dm1{
+    background: lightcoral;
+}
+.dm2{
+    background: rgb(106, 64, 141);
+}
+.dm3{
+    background: rgb(156, 134, 136);
+}
+.dm4{
+    background: rgb(200, 212, 20);
+}
+.dm5{
+    background: rgb(168, 38, 157);
+}
+.dm6{
+    background: rgb(10, 0, 0);
+}
+.dm7{
+    background: rgb(97, 143, 230);
+}
